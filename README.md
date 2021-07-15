@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin Dâvila 👨🏻‍🔬🧑🏻‍💻🧬</h1>
+<h1 align="center">Hi 👋🏻, I'm Martin Dâvila 👨🏻‍🔬🧑🏻‍💻🧬</h1>
 <h3 align="center">Pokemon Master ✨🎮, Geneticist 🧬 the true eternal student 💚.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=0e75b6&style=flat" alt="imartindav" /> </p>
