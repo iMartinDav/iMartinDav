@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Martin Dâvila 👨🏻‍🔬🧑🏻‍💻🧬</h1>
 <h3 align="center">Pokemon Master ✨🎮, Geneticist 🧬 the true eternal student 💚.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=0e75b6&style=flat" alt="imartindav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="imartindav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imartindav" alt="imartindav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?imartindav=ryo-ma&theme=matrix" alt="imartindav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imartindav" target="blank"><img src="https://img.shields.io/twitter/follow/imartindav?logo=twitter&style=for-the-badge" alt="imartindav" /></a> </p>
 
