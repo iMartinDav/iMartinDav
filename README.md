@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm I'm Martin Dâvila 👨🏻‍🔬🧑🏻‍💻🧬</h1>
-<h3 align="center">Pokemon Master ✨🎮, Geneticist 🧬 the true eternal student 💚.</h3>
+<h3 align="center">Pokemon Master ✨🎮◼ Bioinformatics and Computational Biology 🧬◼ Full Stack Developer | Open Source Advocate |Web3, AI & Automation enthusiastic💚.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=76B947&style=for-the-badge" alt="imartindav" /> </p>
 
