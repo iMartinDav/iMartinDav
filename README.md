@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://discord.com/channels/678319060668383253/678342999289233450/1090936036806361108" align="center" style="width: 100%" />
+<img src="https://github.com/iMartinDav/iMartinDav/blob/main/Linkedin%20Banner-MartinDavila.gif" align="center" style="width: 100%" />
 </div>   
 
-<h1 align="center">Hi 👋🏻, I'm Martin Dâvila 👨🏻‍🔬🧑🏻‍💻🧬</h1>
+<h1 align="center">Hi 👋🏻, I'm Martin DAVILA 👨🏻‍🔬🧑🏻‍💻🧬</h1>
 <h3 align="center">Pokemon Master ✨🎮◼ Bioinformatics and Computational Biology 🧬◼ Full Stack Developer | Open Source Advocate |Web3, AI & Automation enthusiastic💚.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=76B947&style=for-the-badge" alt="imartindav" /> </p>
