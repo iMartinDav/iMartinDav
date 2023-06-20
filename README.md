@@ -135,7 +135,15 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imartindav&show_icons=true&locale=en&layout=compact&theme=dark" alt="imartindav" /></p>
+
+### Top lenguages
+<p align="left">
+  <a href="https://github.com/iMartinDav">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMartinDav&layout=compact&langs_count=10&theme=radical&card_width=445&title_color=8E2DE2&icon_color=4E008E&text_color=FFFFFF&bg_color=141321" alt="Top Languages" />
+  </a>
+</p>
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imartindav&show_icons=true&locale=en&theme=gotham" alt="imartindav" /></p>
