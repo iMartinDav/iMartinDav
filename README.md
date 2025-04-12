@@ -5,8 +5,34 @@
 <!-- Introduction Section with Custom Styling -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&random=false&width=435&lines=Martin+DAVILA;Senior+Engineer;Bioinformatician;AI+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&random=false&width=435&lines=Martin+DAVILA;Senior+Engineer;Bioinformatician;AI+Specialist;Pokemon+Master" alt="Typing SVG" />
   </h1>
+  
+  <p align="center">
+    ✨🎮 Pokemon Master ◼ 🧬 Bioinformatics and Computational Biology ◼ 👨🏻‍💻 Software Engineer<br>
+    Open Source Advocate | Web3, AI & Automation enthusiast 💚
+  </p>
+</div>
+
+<!-- Enhanced Professional Description -->
+<div align="center">
+  <h3>🧬 <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Bioinformatician & Software Architect</span></h3>
+  
+  <div align="center" style="max-width: 600px; margin: 0 auto;">
+    <table>
+      <tr>
+        <td align="left">
+          <ul>
+            <li>🧪 Pioneering computational biology research & development</li>
+            <li>🚀 Designing scalable full-stack system architectures</li>
+            <li>🤖 Implementing advanced AI & ML solutions</li>
+            <li>⚙️ Orchestrating cloud infrastructure & DevOps pipelines</li>
+            <li>📊 Translating complex data into actionable insights</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <p align="center">
@@ -19,19 +45,22 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBmMDhsYmd2ZTgybjQ1M2R2a2YwbDQzcTBleXlvbjF2MXlueGZ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30" /> <b>Professional Journey</b>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUxcTg3NnY2bG9kdnZwb3BmN2dsbGNrb3B1OHZ1cTFvOGZtNjRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30" /> <b>Professional Journey</b>
       </td>
       <td align="left">
-        <img src="https://progress-bar.dev/100/?title=Full%20Stack%20Development&color=8E2DE2&width=300" />
-        <img src="https://progress-bar.dev/100/?title=Bioinformatics%20Research&color=8E2DE2&width=300" />
-        <img src="https://progress-bar.dev/100/?title=AI%20%26%20ML%20Innovation&color=8E2DE2&width=300" />
+        <img src="https://img.shields.io/badge/Full%20Stack%20Development-100%25-8E2DE2?style=for-the-badge&labelColor=222222" /><br>
+        <img src="https://img.shields.io/badge/Bioinformatics%20Research-100%25-8E2DE2?style=for-the-badge&labelColor=222222" /><br>
+        <img src="https://img.shields.io/badge/AI%20%26%20ML%20Innovation-100%25-8E2DE2?style=for-the-badge&labelColor=222222" />
       </td>
     </tr>
   </table>
 </div>
 
 <!-- Current Tech Stack with Custom Design -->
-<h2 align="center">🔮 Current Tech Stack</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
+  <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CURRENT TECH STACK</span>
+</h2>
 
 <div align="center">
   <table>
@@ -63,7 +92,7 @@
 <h2 align="center">🌐 Connect & Collaborate</h2>
 <div align="center">
   <a href="https://twitter.com/iMartinDav" target="_blank">
-    <img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/iMartinDav" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -172,14 +201,13 @@
 </div>
 
 <!-- Pokemon Master Section -->
-<h2 align="center">✨ Pokemon Master</h2>
+<h2 align="center">✨ Gaming & Digital Interests</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Favorite-Lugia-8E2DE2?style=for-the-badge&logo=pokemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Also_Love-Gengar-9B7FFF?style=for-the-badge&logo=pokemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Type-Psychic%2FFlying-8E2DE2?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gaming-Pokémon_Enthusiast-8E2DE2?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite-Lugia-9B7FFF?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Collecting-NFTs-8E2DE2?style=for-the-badge&logo=ethereum&logoColor=white" />
   <br>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" height="120" />
-  <img src="https://media.giphy.com/media/ktcUyw6mBlMVa/giphy.gif" height="120" />
 </div>
 
 <!-- Support Section -->
@@ -196,5 +224,5 @@
 <!-- Custom Footer -->
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl4cW10Z240Mnkzb3dxeHRrMmIxbDl4aHJrMzVpZTk1MHhnOGlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuMizcjNxJHoY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVsczR2MzFjMTZhNzFkeTgzYnl5aWVrY2s3bDllNHprazRhYnY1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzJkzjggfGN5Py6nkT/giphy.gif" width="120" />
 </div>
