@@ -2,35 +2,35 @@
   <img src="https://github.com/iMartinDav/iMartinDav/blob/main/Linkedin%20Banner-MartinDavila.gif" align="center" style="width: 100%" />
 </div>
 
-<!-- Introduction Section with Neon Styling -->
+<!-- Introduction Section with Custom Styling -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=435&lines=Martin+DAVILA;Senior+Engineer;Bioinformatician;AI+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&random=false&width=435&lines=Martin+DAVILA;Senior+Engineer;Bioinformatician;AI+Specialist" alt="Typing SVG" />
   </h1>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-Senior_Level-00FFFF?style=for-the-badge&labelColor=101010" />
-  <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile+Views&color=00FFFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-Senior_Level-8E2DE2?style=for-the-badge&labelColor=101010" />
+  <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile+Views&color=8E2DE2&style=for-the-badge" />
 </p>
 
-<!-- Animated Timeline -->
+<!-- Professional Journey Visualization -->
 <div align="center">
-  <table bgcolor="black">
+  <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/iMartinDav/iMartinDav/blob/main/Linkedin%20Banner-MartinDavila.gif" width="30" /> <b>Career Timeline</b>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBmMDhsYmd2ZTgybjQ1M2R2a2YwbDQzcTBleXlvbjF2MXlueGZ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30" /> <b>Professional Journey</b>
       </td>
       <td align="left">
-        <img src="https://progress-bar.dev/100/?title=Bioinformatics&color=00FFFF&width=300" />
-        <img src="https://progress-bar.dev/100/?title=Full%20Stack&color=00FFFF&width=300" />
-        <img src="https://progress-bar.dev/100/?title=AI%20&%20ML&color=00FFFF&width=300" />
+        <img src="https://progress-bar.dev/100/?title=Full%20Stack%20Development&color=8E2DE2&width=300" />
+        <img src="https://progress-bar.dev/100/?title=Bioinformatics%20Research&color=8E2DE2&width=300" />
+        <img src="https://progress-bar.dev/100/?title=AI%20%26%20ML%20Innovation&color=8E2DE2&width=300" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Current Tech Stack with Cyberpunk Design -->
+<!-- Current Tech Stack with Custom Design -->
 <h2 align="center">🔮 Current Tech Stack</h2>
 
 <div align="center">
@@ -52,10 +52,10 @@
   </table>
 </div>
 
-<!-- GitHub Trophies with Neon Design -->
+<!-- GitHub Trophies with Custom Design -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imartindav&theme=matrix&rank=SSS,SS,S,AAA,AA,A,SECRET&margin-w=15&margin-h=15&column=4&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=imartindav&theme=radical&rank=SSS,SS,S,AAA,AA,A,SECRET&margin-w=15&margin-h=15&column=4&no-bg=true" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -89,12 +89,12 @@
   <summary><b>🧠 Bioinformatics & AI Expertise</b></summary>
   <br>
   <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/BioNLP-00FFFF?style=flat-square&logo=moleculer&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Genomics-00FFFF?style=flat-square&logo=dna&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-00FFFF?style=flat-square&logo=tensorflow&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Protein_Structure-00FFFF?style=flat-square&logo=moleculer&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/NGS_Analysis-00FFFF?style=flat-square&logo=dna&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Precision_Medicine-00FFFF?style=flat-square&logo=medicine&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/BioNLP-8E2DE2?style=flat-square&logo=moleculer&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Genomics-8E2DE2?style=flat-square&logo=dna&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-8E2DE2?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Protein_Structure-8E2DE2?style=flat-square&logo=moleculer&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/NGS_Analysis-8E2DE2?style=flat-square&logo=dna&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Precision_Medicine-8E2DE2?style=flat-square&logo=medicine&logoColor=white" /></a>
     <br>
     <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch&theme=dark" />
     <br>
@@ -141,16 +141,16 @@
 
 <div align="center">
   <a href="https://github.com/iMartinDav">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMartinDav&layout=compact&langs_count=8&theme=cyberpunk&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMartinDav&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" height="192px" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imartindav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imartindav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imartindav&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=777777" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imartindav&theme=radical&hide_border=true&background=0D1117&stroke=8E2DE2&ring=8E2DE2&fire=8E2DE2&currStreakNum=8E2DE2&sideNums=8E2DE2&currStreakLabel=8E2DE2&sideLabels=8E2DE2&dates=777777" alt="GitHub Streak" />
 </div>
 
 <!-- Technical & Scientific Publications -->
@@ -159,13 +159,13 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Bioinformatics-10_Publications-00FFFF?style=for-the-badge&logo=dna&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bioinformatics-10_Publications-8E2DE2?style=for-the-badge&logo=dna&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/AI_Research-5_Papers-00FFFF?style=for-the-badge&logo=ai&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Research-5_Papers-8E2DE2?style=for-the-badge&logo=ai&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Open_Source-20_Projects-00FFFF?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Open_Source-20_Projects-8E2DE2?style=for-the-badge&logo=github&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -174,18 +174,27 @@
 <!-- Pokemon Master Section -->
 <h2 align="center">✨ Pokemon Master</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Favorite-Gengar-9B7FFF?style=for-the-badge&logo=pokemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Region-Kanto-FF0000?style=for-the-badge&logo=pokemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Type-Ghost%2FPsychic-9B7FFF?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite-Lugia-8E2DE2?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Also_Love-Gengar-9B7FFF?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Psychic%2FFlying-8E2DE2?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <br>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" height="120" />
+  <img src="https://media.giphy.com/media/ktcUyw6mBlMVa/giphy.gif" height="120" />
 </div>
 
 <!-- Support Section -->
 <h2 align="center">☕ Support My Open-Source Work</h2>
 <div align="center">
   <a href="https://www.buymeacoffee.com/iMartinDav">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iMartinDav&button_colour=00FFFF&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="40" />
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iMartinDav&button_colour=8E2DE2&font_colour=FFFFFF&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="40" />
   </a>
   <a href="https://ko-fi.com/imartindav">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="40" />
   </a>
+</div>
+
+<!-- Custom Footer -->
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl4cW10Z240Mnkzb3dxeHRrMmIxbDl4aHJrMzVpZTk1MHhnOGlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuMizcjNxJHoY/giphy.gif" width="100%" />
 </div>
