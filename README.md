@@ -1,152 +1,158 @@
+<!-- Header Banner with Animated Gradient Background -->
 <div align="center">
-<img src="https://github.com/iMartinDav/iMartinDav/blob/main/Linkedin%20Banner-MartinDavila.gif" align="center" style="width: 100%" />
-</div>   
+  <img src="https://github.com/iMartinDav/iMartinDav/blob/main/Linkedin%20Banner-MartinDavila.gif" align="center" style="width: 100%" />
+  <br><br>
+</div>
 
-<h1 align="center">Hi 👋🏻, I'm Martin DAVILA 👨🏻‍🔬🧑🏻‍💻🧬</h1>
-<h3 align="center">Senior Software Engineer | Bioinformatics & Computational Biology 🧬 | Web3, AI & Automation Specialist 🚀</h3>
+<!-- Animated Introduction Text -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Hi+👋🏻+I'm+Martin+DAVILA;Senior+Software+Engineer;Bioinformatics+Specialist" alt="Martin Davila - Senior Software Engineer & Bioinformatics Specialist"/>
+</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=76B947&style=for-the-badge" alt="imartindav" /> </p>
-
-## 🛠️ Current Tech Stack
 <div align="center">
-  <table>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=8E2DE2&style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- Futuristic Intro Card -->
+<div align="center">
+  <table border="0">
     <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">Frontend</h3>
-        <p align="center">
-          <a href="https://nextjs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="60" /></a>
-          <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /></a>
-          <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="60" /></a>
-        </p>
+      <td>
+        <div align="center">
+          <img src="https://github-profile-trophy.vercel.app/?username=imartindav&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=3&row=2" width="100%" alt="Trophy" />
+        </div>
       </td>
-      <td valign="top" width="50%">
-        <h3 align="center">Backend</h3>
-        <p align="center">
-          <a href="https://nextjs.org/docs/app" target="_blank"><img src="https://www.liblogo.com/img-logo/ne1170nf31-nextjs-15-logo-next.js-15-logo.png" alt="Next.js 15" height="60" /></a>
-          <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" height="60" /></a>
-          <a href="https://neon.tech/" target="_blank"><img src="https://neon.tech/images/neon-logo-light.svg" alt="Neon Database" height="60" /></a>
-        </p>
+      <td>
+        <div>
+          <h3>🧬 Bioinformatician & Software Engineer with 10+ years of expertise</h3>
+          <ul>
+            <li>🧪 Computational biology research & development</li>
+            <li>🚀 Full-stack web & application architecture</li>
+            <li>🤖 AI & machine learning implementation</li>
+            <li>⚙️ DevOps automation & cloud infrastructure</li>
+            <li>📊 Data science & visualization specialist</li>
+          </ul>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imartindav&row=2&column=3&theme=matrix&margin-w=30&margin-h=30&no-bg=true" alt="imartindav" /></a> </p>
+<br>
 
-## 🌐 Connect with me  
+<!-- Current Tech Stack with Glowing Icons -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
+  <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CURRENT TECH STACK</span>
+</h2>
+
+<!-- Modern Card Layout for Primary Stack -->
 <div align="center">
-<a href="https://twitter.com/iMartinDav" target="_blank">
-<img src=https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/iMartinDav" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/iMartinDav" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/iMartinDav" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/iMartinDav" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/iMartinDav" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br/>  
-
-## 💻 Full Technology Arsenal
-
-### Frontend Technologies
-<div align="center">  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://javascript.info/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a>
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
+  <div style="display: flex; justify-content: center;">
+    <!-- Frontend Card -->
+    <div style="background: rgba(13, 17, 23, 0.6); border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); width: 45%; text-align: center;">
+      <h3 style="color: #8E2DE2; margin-bottom: 20px; border-bottom: 1px solid #8E2DE2; padding-bottom: 10px;">Frontend</h3>
+      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+        <a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(142, 45, 226, 0.6));" /></a>
+        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(142, 45, 226, 0.6));" /></a>
+        <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(142, 45, 226, 0.6));" /></a>
+      </div>
+    </div>
+    
+    <!-- Backend Card -->
+    <div style="background: rgba(13, 17, 23, 0.6); border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); width: 45%; text-align: center;">
+      <h3 style="color: #4A00E0; margin-bottom: 20px; border-bottom: 1px solid #4A00E0; padding-bottom: 10px;">Backend</h3>
+      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+        <a href="https://nextjs.org/docs/app" title="Next.js 15"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js 15" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(74, 0, 224, 0.6));" /></a>
+        <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(74, 0, 224, 0.6));" /></a>
+        <a href="https://neon.tech/" title="Neon Database"><img src="https://neon.tech/favicon/favicon.svg" alt="Neon Database" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(74, 0, 224, 0.6));" /></a>
+      </div>
+    </div>
+  </div>
 </div>
 
-### Backend & Database
-<div align="center">  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" height="50" /></a>
-<a href="https://neon.tech/" target="_blank"><img style="margin: 10px" src="https://neon.tech/images/neon-logo-light.svg" alt="Neon Database" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>
-</div>
+<br>
 
-### Mobile Development
-<div align="center">  
-<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="50" /></a>
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
-</div>
-
-### DevOps & Cloud
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-<a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="50" /></a>
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-</div>
-
-### Bioinformatics & Specialized Skills
-<div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
-<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="50" /></a>
-</div>
-
-## 📊 GitHub Stats
+<!-- Social Media Connection Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CONNECT WITH ME</span>
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMartinDav&layout=compact&langs_count=8&theme=radical&card_width=445&title_color=8E2DE2&icon_color=4E008E&text_color=FFFFFF&bg_color=141321" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imartindav&show_icons=true&locale=en&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imartindav&theme=merko&show_icons=true" alt="GitHub Streak" />
-</div>
-
-<h3 align="center">☕ Support My Work</h3>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/iMartinDav">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <a href="https://twitter.com/iMartinDav" target="_blank">
+    <img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" style="margin: 5px;" />
   </a>
-  <a href="https://ko-fi.com/imartindav">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
+  <a href="https://linkedin.com/in/iMartinDav" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
+  </a>
+  <a href="https://github.com/iMartinDav" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/iMartinDav" target="_blank">
+    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 5px;" />
+  </a>
+  <a href="https://dev.to/iMartinDav" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" style="margin: 5px;" />
+  </a>
+  <a href="https://medium.com/iMartinDav" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin: 5px;" />
   </a>
 </div>
+
+<br>
+
+<!-- Technology Arsenal Section with Interactive Tabs Layout -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TECHNOLOGY ARSENAL</span>
+</h2>
+
+<!-- Frontend Technology Section -->
+<details open>
+  <summary style="font-size: 20px; font-weight: bold; color: #8E2DE2; cursor: pointer;">🌐 Frontend Development</summary>
+  <div align="center">
+    <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://reactjs.org/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://vuejs.org/" title="Vue.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://angular.io/" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://redux.js.org/" title="Redux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Gatsby" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://d3js.org/" title="D3.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="50" height="50" style="margin: 10px" /></a>
+  </div>
+</details>
+
+<!-- Backend Technology Section -->
+<details open>
+  <summary style="font-size: 20px; font-weight: bold; color: #4A00E0; cursor: pointer;">⚙️ Backend & Database</summary>
+  <div align="center">
+    <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://neon.tech/" title="Neon Database"><img src="https://neon.tech/favicon/favicon.svg" alt="Neon Database" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin: 10px; background-color: white; border-radius: 5px; padding: 3px;" /></a>
+    <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://graphql.org/" title="GraphQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://www.djangoproject.com/" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://go.dev/" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://www.rust-lang.org/" title="Rust"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50" style="margin: 10px" /></a>
+  </div>
+</details>
+
+<!-- Mobile Development Section -->
+<details>
+  <summary style="font-size: 20px; font-weight: bold; color: #8E2DE2; cursor: pointer;">📱 Mobile Development</summary>
+  <div align="center">
+    <a href="https://reactnative.dev/" title="React Native"><img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://developer.apple.com/swift/" title="Swift"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin: 10px" /></a>
+    <a href="https://dart.dev/" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" style="margin: 10px" /></a>
+  </div>
