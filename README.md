@@ -1,158 +1,191 @@
-<!-- Header Banner with Animated Gradient Background -->
 <div align="center">
   <img src="https://github.com/iMartinDav/iMartinDav/blob/main/Linkedin%20Banner-MartinDavila.gif" align="center" style="width: 100%" />
-  <br><br>
 </div>
 
-<!-- Animated Introduction Text -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Hi+👋🏻+I'm+Martin+DAVILA;Senior+Software+Engineer;Bioinformatics+Specialist" alt="Martin Davila - Senior Software Engineer & Bioinformatics Specialist"/>
-</h1>
-
+<!-- Introduction Section with Neon Styling -->
 <div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile%20views&color=8E2DE2&style=for-the-badge" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=435&lines=Martin+DAVILA;Senior+Engineer;Bioinformatician;AI+Specialist" alt="Typing SVG" />
+  </h1>
 </div>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-Senior_Level-00FFFF?style=for-the-badge&labelColor=101010" />
+  <img src="https://komarev.com/ghpvc/?username=imartindav&label=Profile+Views&color=00FFFF&style=for-the-badge" />
+</p>
 
-<!-- Futuristic Intro Card -->
+<!-- Animated Timeline -->
 <div align="center">
-  <table border="0">
+  <table bgcolor="black">
     <tr>
-      <td>
+      <td align="center">
+        <img src="https://github.com/iMartinDav/iMartinDav/blob/main/Linkedin%20Banner-MartinDavila.gif" width="30" /> <b>Career Timeline</b>
+      </td>
+      <td align="left">
+        <img src="https://progress-bar.dev/100/?title=Bioinformatics&color=00FFFF&width=300" />
+        <img src="https://progress-bar.dev/100/?title=Full%20Stack&color=00FFFF&width=300" />
+        <img src="https://progress-bar.dev/100/?title=AI%20&%20ML&color=00FFFF&width=300" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Current Tech Stack with Cyberpunk Design -->
+<h2 align="center">🔮 Current Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Frontend Ecosystem</h3>
         <div align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=imartindav&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=3&row=2" width="100%" alt="Trophy" />
+          <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind&theme=dark&perline=3" width="180" alt="Frontend Skills" />
         </div>
       </td>
-      <td>
-        <div>
-          <h3>🧬 Bioinformatician & Software Engineer with 10+ years of expertise</h3>
-          <ul>
-            <li>🧪 Computational biology research & development</li>
-            <li>🚀 Full-stack web & application architecture</li>
-            <li>🤖 AI & machine learning implementation</li>
-            <li>⚙️ DevOps automation & cloud infrastructure</li>
-            <li>📊 Data science & visualization specialist</li>
-          </ul>
+      <td align="center" width="50%">
+        <h3>Backend Architecture</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres&theme=dark&perline=3" width="180" alt="Backend Skills" />
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
-<!-- Current Tech Stack with Glowing Icons -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
-  <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CURRENT TECH STACK</span>
-</h2>
-
-<!-- Modern Card Layout for Primary Stack -->
+<!-- GitHub Trophies with Neon Design -->
 <div align="center">
-  <div style="display: flex; justify-content: center;">
-    <!-- Frontend Card -->
-    <div style="background: rgba(13, 17, 23, 0.6); border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); width: 45%; text-align: center;">
-      <h3 style="color: #8E2DE2; margin-bottom: 20px; border-bottom: 1px solid #8E2DE2; padding-bottom: 10px;">Frontend</h3>
-      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-        <a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(142, 45, 226, 0.6));" /></a>
-        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(142, 45, 226, 0.6));" /></a>
-        <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(142, 45, 226, 0.6));" /></a>
-      </div>
-    </div>
-    
-    <!-- Backend Card -->
-    <div style="background: rgba(13, 17, 23, 0.6); border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); width: 45%; text-align: center;">
-      <h3 style="color: #4A00E0; margin-bottom: 20px; border-bottom: 1px solid #4A00E0; padding-bottom: 10px;">Backend</h3>
-      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-        <a href="https://nextjs.org/docs/app" title="Next.js 15"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js 15" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(74, 0, 224, 0.6));" /></a>
-        <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(74, 0, 224, 0.6));" /></a>
-        <a href="https://neon.tech/" title="Neon Database"><img src="https://neon.tech/favicon/favicon.svg" alt="Neon Database" width="70" height="70" style="filter: drop-shadow(0 0 10px rgba(74, 0, 224, 0.6));" /></a>
-      </div>
-    </div>
-  </div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imartindav&theme=matrix&rank=SSS,SS,S,AAA,AA,A,SECRET&margin-w=15&margin-h=15&column=4&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </div>
 
-<br>
-
-<!-- Social Media Connection Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CONNECT WITH ME</span>
-</h2>
-
+<!-- Professional Network Links -->
+<h2 align="center">🌐 Connect & Collaborate</h2>
 <div align="center">
   <a href="https://twitter.com/iMartinDav" target="_blank">
-    <img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://linkedin.com/in/iMartinDav" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/iMartinDav" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.kaggle.com/iMartinDav" target="_blank">
-    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://dev.to/iMartinDav" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/dev.to-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
   <a href="https://medium.com/iMartinDav" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
 
-<br>
+<!-- Technology Mastery Matrix -->
+<h2 align="center">⚡ Technology Mastery Matrix</h2>
 
-<!-- Technology Arsenal Section with Interactive Tabs Layout -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  <span style="background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TECHNOLOGY ARSENAL</span>
-</h2>
-
-<!-- Frontend Technology Section -->
 <details open>
-  <summary style="font-size: 20px; font-weight: bold; color: #8E2DE2; cursor: pointer;">🌐 Frontend Development</summary>
+  <summary><b>🧠 Bioinformatics & AI Expertise</b></summary>
+  <br>
   <div align="center">
-    <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://reactjs.org/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://vuejs.org/" title="Vue.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://angular.io/" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://redux.js.org/" title="Redux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Gatsby" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://d3js.org/" title="D3.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="50" height="50" style="margin: 10px" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/BioNLP-00FFFF?style=flat-square&logo=moleculer&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Genomics-00FFFF?style=flat-square&logo=dna&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-00FFFF?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Protein_Structure-00FFFF?style=flat-square&logo=moleculer&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/NGS_Analysis-00FFFF?style=flat-square&logo=dna&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Precision_Medicine-00FFFF?style=flat-square&logo=medicine&logoColor=white" /></a>
+    <br>
+    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch&theme=dark" />
+    <br>
+    <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" /></a>
+    <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" /></a>
+    <a href="https://www.bioconductor.org/"><img src="https://bioconductor.org/images/logo_bioconductor.gif" height="50" /></a>
+    <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50" /></a>
+    <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" /></a>
   </div>
 </details>
 
-<!-- Backend Technology Section -->
-<details open>
-  <summary style="font-size: 20px; font-weight: bold; color: #4A00E0; cursor: pointer;">⚙️ Backend & Database</summary>
-  <div align="center">
-    <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://neon.tech/" title="Neon Database"><img src="https://neon.tech/favicon/favicon.svg" alt="Neon Database" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin: 10px; background-color: white; border-radius: 5px; padding: 3px;" /></a>
-    <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://graphql.org/" title="GraphQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://www.djangoproject.com/" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://go.dev/" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://www.rust-lang.org/" title="Rust"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50" style="margin: 10px" /></a>
-  </div>
-</details>
-
-<!-- Mobile Development Section -->
 <details>
-  <summary style="font-size: 20px; font-weight: bold; color: #8E2DE2; cursor: pointer;">📱 Mobile Development</summary>
+  <summary><b>🌐 Modern Web Development</b></summary>
+  <br>
   <div align="center">
-    <a href="https://reactnative.dev/" title="React Native"><img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://developer.apple.com/swift/" title="Swift"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin: 10px" /></a>
-    <a href="https://dart.dev/" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" style="margin: 10px" /></a>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,svelte,typescript,javascript&theme=dark&perline=7" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=tailwind,css,sass,html,bootstrap,materialui,styledcomponents&theme=dark&perline=7" />
   </div>
+</details>
+
+<details>
+  <summary><b>🛠️ Backend & Infrastructure</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,express,flask,go,rust&theme=dark&perline=7" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,graphql,prisma,supabase&theme=dark&perline=7" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions&theme=dark&perline=7" />
+  </div>
+</details>
+
+<details>
+  <summary><b>📱 Mobile & Cross-Platform</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,react,swift,kotlin,dart&theme=dark&perline=5" />
+  </div>
+</details>
+
+<!-- GitHub Activity Graph -->
+<h2 align="center">📊 Performance Metrics</h2>
+
+<div align="center">
+  <a href="https://github.com/iMartinDav">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMartinDav&layout=compact&langs_count=8&theme=cyberpunk&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imartindav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imartindav&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=777777" alt="GitHub Streak" />
+</div>
+
+<!-- Technical & Scientific Publications -->
+<h2 align="center">🔬 Research Contributions</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Bioinformatics-10_Publications-00FFFF?style=for-the-badge&logo=dna&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI_Research-5_Papers-00FFFF?style=for-the-badge&logo=ai&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Source-20_Projects-00FFFF?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Pokemon Master Section -->
+<h2 align="center">✨ Pokemon Master</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Favorite-Gengar-9B7FFF?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Region-Kanto-FF0000?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Ghost%2FPsychic-9B7FFF?style=for-the-badge&logo=pokemon&logoColor=white" />
+</div>
+
+<!-- Support Section -->
+<h2 align="center">☕ Support My Open-Source Work</h2>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/iMartinDav">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iMartinDav&button_colour=00FFFF&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="40" />
+  </a>
+  <a href="https://ko-fi.com/imartindav">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="40" />
+  </a>
+</div>
